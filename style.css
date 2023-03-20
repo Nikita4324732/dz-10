@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color:greenyellow;
+ border:50px black;
+}
+header{
+  display:flex;
+  align-items:center;
+}
+UL{
+  list-style:none;
+  display:flex;
+  justify-content:space-between;
+  margin-left:120px;
+  gap:50px;
+}
+a{
+  text-decoration:none;
+}
